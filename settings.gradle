@@ -1,3 +1,4 @@
-rootProject.name = 'weiyuan'
+rootProject.name = 'ape'
 include 'order'
+include 'web'
 
