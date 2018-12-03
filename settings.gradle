@@ -1,4 +1,5 @@
 rootProject.name = 'ape'
 include 'order'
 include 'web'
+include 'pay'
 

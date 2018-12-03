@@ -1,4 +1,4 @@
-group 'com'
+group 'com.ape'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'groovy'
